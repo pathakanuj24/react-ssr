@@ -19,5 +19,5 @@ This GitHub Actions workflow automates the continuous integration and deployment
 3. Make changes to your React SSR project.
 4. Push changes to the "master" branch to trigger the workflow.
 
-For more details, see the [GitHub Actions workflow file](.github/workflows/your-workflow.yml).
+For more details, see the [GitHub Actions workflow file](https://github.com/pathakanuj24/react-ssr/blob/master/.github/workflows/ci-cd.yml).
 
